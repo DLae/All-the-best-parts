@@ -1,0 +1,25 @@
+Key Performance Indicators:
+Some of the main key performance indicators for the digital solution for Health Advice Group would consist of the solution being up to date, both with the weather forecasts and the best ways to go about the health/weather concerns that the solution gives the users.
+The main KPI's consist of:
+	The accuracy of the weather forecasts for the day and the on coming week
+	The number of daily users of the digital solution, if there is a way to see how many people are using the solution daily then this will be a good starting point as to how much funding will need to be put into upgrading servers so that more people are able to sign up for the solution and make Health Advice Group more known
+	How satisfied each user is with the content that is being provided
+	The response time for between the users request and the output
+	The reviews that the users are leaving, with the reviews that users are leaving, it gives a good indication as to what may need to be improved, and what is already good as it is, so when new updates are in development, the users feeback will be noted and the solution can be based more around what the users think
+	The amount of different weather resources that are being used
+	The amount of different health-based resources that are being used
+	The average amount of time that each user spends on the solution
+	The solution must be robust so that any user inputs are accounted for and the solution doesnt break if there is an input that it doesnt understand
+	The solution must also be as bug free as possible so that the user is able to have an enjoyable experience when using the solution and is more likely to spend more time on the solution and is more likely to recommend it to a friend
+
+
+User Acceptance Criteria:
+Within the user acceptance criteria there are many things that need to be accounted for that will meet the needs of the user for the digital solution. The user acceptance criteria consist of:
+	An account system so that users can have a personalised experience by entering any allergies that they may have, and their current location's forecast being shown
+	Having certain locations for the weather forecast saved within a "Most visited" tab that shows the weather forecast for the day in each of the location
+	Users should be easily able to search for certain locations to get accurate forecast information, air quality data and any weather warnings or health concerns if they are in place
+	Users should be able to opt in and out of having their location always tracked to give the user the most accurate and up to date information about the weather where they are
+	The UAC must meet or exceed the functional requirements as they are needed for the digital solution to work as intended
+	There should be a way for users to access a dashboard that displays information about the air quality within a certain area of the user
+	The digital solution should be very easy to understand by everyone, and it should also be very accessible for those that may struggle to navigate the solution normally, this would include many of the accessibility features mentioned within Non-Function Requirements, as having these accessibility features means that the solution becomes accessible to everyone which is one of the main things that Health Advice Group looks to do with this solution.
+	The website or application should provide detailed information about the forecast including temperature, humidity, wind speed, and precipitation probability for upcoming days.
